@@ -1,4 +1,4 @@
-package strings;
+package characters;
 
 public class CharacterCountInString {
 
