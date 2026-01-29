@@ -1,4 +1,4 @@
-package strings;
+package characters;
 
 //input: Asif Nanadi
 //output: Asif=4 & Nanadi = 6

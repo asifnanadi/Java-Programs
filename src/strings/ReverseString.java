@@ -1,6 +1,6 @@
-package beginnerLevel;
+package strings;
 
-public class ReverseAString {
+public class ReverseString {
 
 	public static void main(String[] args) {
 		revString("Ayzal");

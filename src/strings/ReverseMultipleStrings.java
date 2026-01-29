@@ -1,6 +1,6 @@
 package strings;
 
-public class Reverse_String {
+public class ReverseMultipleStrings {
 
 	public static void reverseString() {
 		String str = "Nanadi";
